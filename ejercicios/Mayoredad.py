@@ -112,15 +112,18 @@ while i < 5:
 def hola_mundo():
     print("hola mundo")
 
+
 # Invocar el Procedimiento
 hola_mundo()
+
 
 # Funciones que retorna valor
 def elevar_cuadrado(numero):
     return numero ** 2
 
+
 # Invocar la funcion
- elevar_cuadrado(3)    
+elevar_cuadrado(3)
 
 
 
