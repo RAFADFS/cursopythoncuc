@@ -127,7 +127,7 @@ if a == b and a > 2:
     print(a, "Es igual a", b, "Mayor que 2")
 
 if a == b or a > 2:
-    print(a, "Es igual a", b, "Mayor que 2")
+    print(a, "Es igual a", b, "Mayor que 2")       
 
 
 
